@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eugenoswald&label=Profile%20views&color=0e75b6&style=flat" alt="eugenoswald" /> </p>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **React & PHP**
 
 - 👨‍💻 All of my projects are available at [eugen-oswald.de](eugen-oswald.de)
 
