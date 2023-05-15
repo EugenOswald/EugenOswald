@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eugenoswald&label=Profile%20views&color=0e75b6&style=flat" alt="eugenoswald" /> </p>
 
-- 🌱 I’m currently learning **React & PHP**
+- 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [eugen-oswald.de](eugen-oswald.de)
+- 👨‍💻 All of my projects are available at [www.eugen-oswald.de](www.eugen-oswald.de)
 
 - 💬 Ask me about **HTML, CSS & JavaScript**
 
