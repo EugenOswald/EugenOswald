@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [www.eugen-oswald.de](www.eugen-oswald.de)
+- 👨‍💻 All of my projects are available at <a href="www.eugen-oswald.de">www.eugen-oswald.de</a>
 
 - 💬 Ask me about **HTML, CSS & JavaScript**
 
